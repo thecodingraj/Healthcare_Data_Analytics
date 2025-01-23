@@ -15,7 +15,7 @@ The goal of this project is to create an interactive Excel dashboard to analyze 
 - What is the distribution of test results across patients?
 - What is the average billing amount by insurance providers?
 - Which hospitals contribute the most to billing revenue?
-- Dashboard Interaction <a href="https://github.com/thecodingraj/EV-Sales-Analysis/commit/686ff79669ae900a009d9a685bf99b8ef69f025a">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/thecodingraj/Healthcare_Data_Analytics/blob/main/Screenshot%202025-01-23%20201752.png">View Dashboard</a>
 
 ## Process
 - Cleaned and preprocessed the raw dataset to remove inconsistencies and missing values.
